@@ -3,3 +3,4 @@ name peace
 class 3
 school primary6
 term 3rd
+place home

@@ -1,1 +1,5 @@
 Hello, Its Hard!
+name peace
+class 3
+school primary6
+term 3rd
